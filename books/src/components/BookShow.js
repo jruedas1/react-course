@@ -10,7 +10,6 @@ function BookShow({ book, onDelete, onEdit }){
 
     const handleEditClick = () => {
         setShowEdit(!showEdit);
-        onEdit()
     }
 
     const handleSubmit = (id, newTitle) => {
