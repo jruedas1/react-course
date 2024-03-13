@@ -1,3 +1,16 @@
 {
-  "books": []
+  "books": [
+    {
+      "title": "Harry Potter",
+      "id": 1
+    },
+    {
+      "title": "Harfing Portiscule",
+      "id": 3
+    },
+    {
+      "title": "Harrumphing Potrus",
+      "id": 4
+    }
+  ]
 }
